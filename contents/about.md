@@ -2,7 +2,7 @@
 view: none
 ---
 
-Handcrafted by [Muralidhar Duvvuri][1] and with some [Wintersmith][2] magic.
+Handcrafted by [Muralidhar Duvvuri][1] with some [Wintersmith][2] magic.
 This footer text can be edited in about.md
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
