@@ -1,6 +1,6 @@
 ---
 title: "Taketori Monogatari"
-author: Princess Kaguya
+author: murali
 date: 2012-02-01
 template: article.jade
 ---

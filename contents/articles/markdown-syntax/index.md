@@ -1,6 +1,6 @@
 ---
 title: Markdown syntax
-author: John Gruber
+author: murali
 date: 2012-02-02
 template: article.jade
 ---
