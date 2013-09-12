@@ -3,7 +3,7 @@
     "url": "http://localhost:8080",
     "name": "Moosical Bovine",
     "owner": "Muralidhar Duvvuri",
-    "description": "Why follow the her when you can Moo Along"
+    "description": "Why follow the herd when you can Moo Along!"
   },
   "plugins": [
     "./plugins/paginator.coffee"
@@ -22,5 +22,6 @@
   },
   "paginator": {
     "perPage": 3
-  }
+  },
+  "output": "/Users/Murali/Sites/Output"
 }
