@@ -2,7 +2,7 @@
 view: none
 ---
 
-Wintersmith is made by [Johan Nordberg][1] and licensed under the [MIT-license][2].
+Handcrafted by [Muralidhar Duvvuri][1] and with some [Wintersmith][2] magic.
 This footer text can be edited in about.md
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -17,5 +17,5 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
 deserunt mollit anim id est laborum.
 
 
-[1]: http://johan-nordberg.com
-[2]: http://opensource.org/licenses/MIT
+[1]: http://www.twitter.com/iMurali
+[2]: http://wintersmith.io/
